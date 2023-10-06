@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 1rem;
+}
+
+
+.wrap {
+    width: 100%;
+    margin: 190px auto;
+}
+
+.wrap .logo {
+    text-align: center;
+    
+}
+
+img {
+    width: 300px;
+    height: 250px;
+    margin: 80px;
+}
+
+h1 {
+    font-size: 3.5rem;
+    color: rgba(46, 139, 86, 0.925);
+}
+
+.name {
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgba(46, 139, 86, 0.747);
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: rgba(46, 139, 86, 0.603);;
+}
